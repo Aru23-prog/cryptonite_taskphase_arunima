@@ -1,4 +1,4 @@
-    ## The Root
+## The Root
     hacker@paths~the-root:~$ /pwn
     BOOM!!!
     Here is your flag:
