@@ -8,3 +8,7 @@
     hacker@commands~making-directories:~$ /challenge/run
     Success! Here is your flag:
     pwn.college{Ybmx8Vi1-eehuoU6DIkg8BvJ_A3.dFzM4QDLwgzN0czW}
+ # use mkdir to create new directory     
+    
+    
+    
