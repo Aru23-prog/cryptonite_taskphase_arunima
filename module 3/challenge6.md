@@ -6,3 +6,4 @@
     hacker@commands~touching-files:~$ /challenge/run
     Success! Here is your flag:
     pwn.college{QYAr9qfhJJL7PUkDx4l3ylLq8Tu.dBzM4QDLwgzN0czW}
+# touch creates new file       
