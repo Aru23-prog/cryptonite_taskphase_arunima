@@ -13,3 +13,5 @@
     The secret value is: 423
     hacker@man~helpful-programs:~$ /challenge/challenge -g 423
     Correct usage! Your flag: pwn.college{4mGkv2tVUvRFOLDCwhU3gMVCwJB.ddjM4QDLwgzN0czW}
+# similar to previous question    
+    
