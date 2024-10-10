@@ -6,3 +6,5 @@
     /challenge/run is an absolute path, invoked from the right directory!
     Here is your flag:
     pwn.college{s77efct9srn8og6RF_9gCYc4wRu.ddDN1QDLwgzN0czW}
+
+# The challenge asked me to change to a specific directory (/var/lib/apt/lists) And then I ran the command /challenge/run.
