@@ -1,4 +1,4 @@
-
+# Help for builtins
     hacker@man~help-for-builtins:~$ help challenge
     challenge: challenge [--fortune] [--version] [--secret SECRET]
         This builtin command will read you the flag, given the right arguments!
@@ -17,3 +17,4 @@
     hacker@man~help-for-builtins:~$ challenge --secret "QQJrtCG5"
     Correct! Here is your flag!
     pwn.college{QQJrtCG5D7BSXJ19nXLYg4tECLm.dRTM5QDLwgzN0czW}
+ ## Similar to previous question    
