@@ -44,4 +44,6 @@
     Incorrect usage! Please read the challenge man page!
     hacker@man~reading-manuals:~$ /challenge/challenge --588
     Incorrect usage! Please read the challenge man page!
+     
     hacker@man~reading-manuals:~$ 
+# Did not understand how to get flag    
