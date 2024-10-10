@@ -8,5 +8,5 @@
     hacker@commands~listing-files:~$ /challenge/19510-renamed-run-7978
     Yahaha, you found me! Here is your flag:
     pwn.college{8fqUskuLI-pOsQr3VaK9RDsuk3M.dhjM4QDLwgzN0czW}
-# Use grep instead of cat for too big file     
+# ls lists all the files in a directory 
     
