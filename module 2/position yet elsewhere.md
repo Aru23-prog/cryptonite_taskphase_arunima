@@ -6,3 +6,5 @@
     /challenge/run is an absolute path, invoked from the right directory!
     Here is your flag:
     pwn.college{cYmh6RW8ZAxnzaKgYk05TjGcjc-.dhDN1QDLwgzN0czW}
+
+# Followed the same procedure as previous question.
