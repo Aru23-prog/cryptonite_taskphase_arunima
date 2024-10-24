@@ -7,4 +7,4 @@
     Here is your flag:
     pwn.college{QrVglHvrJErmIk9sWrwDM3t6Yxz.dZDN1QDLwgzN0czW}
 
-## I followed the instruction given 
+## $ shows where you are.~ is used to show home directory where we generally are when we open terminal but using cd command(change directory) we can change our currect working directory by passing PATH of some other directory as argument 
