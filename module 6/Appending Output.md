@@ -34,3 +34,4 @@
     rather than *append* mode (>>), and so the write of the second half to stdout 
     overwrote the initial write of the first half directly to the file. Try append 
     mode!
+##     
