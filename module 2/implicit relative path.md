@@ -1,4 +1,4 @@
-## implicit relative path
+# implicit relative path
     hacker@paths~implicit-relative-path:~$ cd /challenge
     hacker@paths~implicit-relative-path:/challenge$ ./run
     Correct!!!
@@ -6,4 +6,4 @@
     Here is your flag:
     pwn.college{sh1XfdjteUezt9C44V9RhtdrRyt.dFTN1QDLwgzN0czW}
 
-# So I ran different commands using different combinations of . and / and I got successful in my third attempt.
+## So I ran different commands using different combinations of . and / and I got successful in my third attempt.

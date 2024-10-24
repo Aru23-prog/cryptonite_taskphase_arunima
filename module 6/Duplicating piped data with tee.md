@@ -1,4 +1,4 @@
-## Duplicating piped data with tee
+# Duplicating piped data with tee
     hacker@piping~duplicating-piped-data-with-tee:~$ /challenge/pwn | tee pwn |/challenge/college
     Processing...
 

@@ -1,4 +1,4 @@
-## Searching manuals
+# Searching manuals
     hacker@man~reading-manuals:~$ man challenge
 
     CHALLENGE(1)                                     Challenge Commands                                     CHALLENGE(1)
@@ -46,4 +46,4 @@
     Incorrect usage! Please read the challenge man page!
      
     hacker@man~reading-manuals:~$ 
-# Did not understand how to get flag    
+## Did not understand how to get flag    

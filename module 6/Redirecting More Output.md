@@ -1,4 +1,4 @@
-## Redirecting More Output
+# Redirecting More Output
     hacker@piping~redirecting-more-output:~$ /challenge/run > myflag
     [INFO] WELCOME! This challenge makes the following asks of you:
     [INFO] - the challenge will check that output is redirected to a specific file path : myflag

@@ -1,4 +1,4 @@
-## Appending Output
+# Appending Output
     hacker@piping~appending-output:~$ /challenge/run >> /home/hacker/the-flag
     [INFO] WELCOME! This challenge makes the following asks of you:
     [INFO] - the challenge will check that output is redirected to a specific file path : /home/hacker/the-flag

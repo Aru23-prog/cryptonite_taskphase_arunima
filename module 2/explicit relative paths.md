@@ -1,4 +1,4 @@
-## Explicit relative path
+# Explicit relative path
     hacker@paths~explicit-relative-paths-from-:~$ cd /
     hacker@paths~explicit-relative-paths-from-:/$ ./challenge/run
     Correct!!!
@@ -7,4 +7,4 @@
     pwn.college{o_YxicQiyqP_ar27iqHpULyOcJ4.dBTN1QDLwgzN0czW}
     hacker@paths~explicit-relative-paths-from-:/$ 
 
-# In current directory one of the identical relative paths contained the flag 
+## In current directory one of the identical relative paths contained the flag 

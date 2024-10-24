@@ -1,4 +1,4 @@
-## Position Thy Self
+# Position Thy Self
     hacker@paths~position-thy-self:~$ cd
     hacker@paths~position-thy-self:~$ cd /usr/bin
     hacker@paths~position-thy-self:/usr/bin$ /challenge/run
@@ -7,4 +7,4 @@
     Here is your flag:
     pwn.college{QrVglHvrJErmIk9sWrwDM3t6Yxz.dZDN1QDLwgzN0czW}
 
-# I followed the instruction given 
+## I followed the instruction given 

@@ -1,4 +1,4 @@
-## Findind files
+# Findind files
     hacker@commands~finding-files:~$ find
     .
     ./.dbus
@@ -236,4 +236,4 @@
     /nix/store/1yagn5s8sf7kcs2hkccgf8d0wxlrv5sz-radare2-5.9.0/share/radare2/5.9.0/flag
     hacker@commands~finding-files:~$ cat /usr/local/lib/python3.8/dist-packages/jedi/third_party/typeshed/third_party/2and3/cryptography/hazmat/bindings/flag
     pwn.college{IUAby0pGX1mCYrW37IhqEsrvA8z.dJzM4QDLwgzN0czW}
-# first use find to find all the files then use find to find a file with specification   
+## first use find to find all the files then use find to find a file with specification   

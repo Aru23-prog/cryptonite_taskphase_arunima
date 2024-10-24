@@ -1,4 +1,4 @@
-## Grepping Error
+# Grepping Error
     hacker@piping~grepping-errors:~$ /challenge/run 2>&1 | grep pwn.college
     [INFO] WELCOME! This challenge makes the following asks of you:
     [INFO] - the challenge checks for a specific process at the other end of stderr : grep

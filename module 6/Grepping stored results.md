@@ -1,4 +1,4 @@
-## Grepping stored results
+# Grepping stored results
     [HYPE] ONWARDS TO GREATNESS!
 
     [INFO] This challenge will perform a bunch of checks.

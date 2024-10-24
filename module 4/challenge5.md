@@ -1,3 +1,3 @@
-## helpful program
+# helpful program
     $ man man
-# Did not find the flag in the manual
+## Did not find the flag in the manual

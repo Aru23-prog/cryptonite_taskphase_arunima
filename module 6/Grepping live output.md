@@ -1,4 +1,4 @@
-## Grepping live output
+# Grepping live output
     [INFO] This challenge will perform a bunch of checks.
     [INFO] If you pass these checks, you will receive the /challenge/.data.txt file.
 
