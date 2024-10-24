@@ -1,3 +1,4 @@
+# Changing File Ownership    
     hacker@permissions~changing-file-ownership:~$ ls -l / | grep flag
     -r--------    1 root root   58 Oct 19 10:45 flag
     hacker@permissions~changing-file-ownership:~$ chown hacker /flag

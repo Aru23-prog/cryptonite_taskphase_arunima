@@ -1,4 +1,4 @@
-
+# The SUID Bit
     hacker@permissions~the-suid-bit:~$ ls -l /challenge
     total 16
     -rwsr-xr-x 1 root root 1450 Aug 18 06:57 DESCRIPTION.md

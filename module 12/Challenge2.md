@@ -1,3 +1,4 @@
+# Adding Commands        
         hacker@path~setting-path:~$ echo $PATH
         /nix/store/3v4hdb2gmpj7jv2z848ikakhzl9rjgwh-code-server/libexec/code-server/lib/vscode/bin/remote-cli:/run/challenge/bin:/run/workspace/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
         hacker@path~setting-path:~$ PATH= /challenge/run

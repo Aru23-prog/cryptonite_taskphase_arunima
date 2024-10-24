@@ -1,4 +1,4 @@
-
+# Fun With Groups Name
     hacker@permissions~fun-with-groups-names:~$ id
     uid=1000(hacker) gid=1000(grp3591) groups=1000(grp3591)
     hacker@permissions~fun-with-groups-names:~$ ls -l

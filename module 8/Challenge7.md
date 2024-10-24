@@ -1,3 +1,4 @@
+# Foregrounded Processes
     hacker@processes~foregrounding-processes:~$ /challenge/run
     To pass this level, you need to suspend me, resume the suspended process in the 
     background, and *then* foreground it without re-suspending it! You can 
